@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# He he he...
 
-You can use the [editor on GitHub](https://github.com/tausteen/stuten/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Dette er beviset på at du virkelig har omfavnet mine vitser. #stolt
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tema for neste oppgave: Datoer
 
-### Markdown
+- Se bilde
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![img](badebasseng.JPG)
 
-```markdown
-Syntax highlighted code block
+| o | o | o | o | x | x | 
 
-# Header 1
-## Header 2
-### Header 3
+- Se bilde
 
-- Bulleted
-- List
+![img](puls.JPG)
 
-1. Numbered
-2. List
+| o | x | o | o | o | o | 
 
-**Bold** and _Italic_ and `Code` text
+- En uforglemmelig taxitur!
 
-[Link](url) and ![Image](src)
-```
+| o | x | o | o | o | o | 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Hjem fra 154 km
 
-### Jekyll Themes
+| x | x | o | o | o | o | 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tausteen/stuten/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Første kyss
 
-### Support or Contact
+| o | x | o | o | o | o | 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+#### En liten transformering trengs for å finne løsningsordet.
+
+#### Neste oppgave finnes på: tausteen.github.io/løsningsord
